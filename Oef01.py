@@ -10,7 +10,7 @@ leeftijd= leeftijd + 10
 # voornaam = "Nicolas"
 #naam = "Laurent"
 
-#print("Welkom", voornaam, naam)
+#print("Welkom", voornaam, naam )
 
 print( "Welkom {0}. Jouw naam is {1} en je bent {2:.2f} jaar".format(voornaam, naam, leeftijd))
 
